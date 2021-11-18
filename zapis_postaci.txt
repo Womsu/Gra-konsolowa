@@ -1,0 +1,2 @@
+imie, klase,sila,zrecznosc,zywotnosc,energia,obrona,obrazenia,zloto,helm,reka1
+reka2,zbroja,rekawice,buty,amulet,pierscien1,pierscien2,potki_mana,potki_hp,level,exp_aktualnym,nastepny_poziom,aktualne_hp,aktualna_mana,
